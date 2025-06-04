@@ -15,6 +15,3 @@ This project demonstrates how to connect a Node.js application to a Neon Postgre
 ## Files
 - `server.js`: Main script to fetch and display employee data
 - `.env`: Environment variables (not committed)
-
-## License
-MIT 
